@@ -27,16 +27,20 @@ Virtualization, Orchestration, DevOps, Model Based Systems Engineering, Systems 
 ## Professional Career
 
 `2023-present`
-__Customer Solutions Architect(Intel Corp)__
+__Automotive Customer Solutions Architect(Intel Corp)__
+Worked on customer engagements and introduced the new documentation infrastructure.
 
 `2017-2023`
-__Lead Engineer(Intel Corp)__
+__IOT Lead Engineer(Intel Corp)__
+Worked with a diverse multidisciplinary multi geo team on virtualized and orchestarted IOT use cases on latest Intel silicon. 
 
 `2011-2017`
-__Software Architect(Intel Corp)__
+__Automotive Software Architect(Intel Corp)__
+Worked with local engineering teams and global domain experts on Intel platform programs providing preintegrated hardware and preintegrated software in production quality.
 
 `2002-2011`
-__Platform Architect(Harman Becker)__
+__Automotive Platform Architect(Harman Becker)__
+Worked as software engineer, software architect, systems architect, lead engineer and domain expert in project, platform and predevelopment context.
 
 ## Education
 
